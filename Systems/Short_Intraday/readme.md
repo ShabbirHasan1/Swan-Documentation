@@ -1,6 +1,6 @@
 # SHORT INTRADAY:
 ## Objective:
-According to the intraday trend analysis on F&O list, there is a downward trend during the day. (Refer to the sheet add path).
+According to the intraday trend analysis on F&O list, there is a downward trend during the day. (Refer to the sheet add path). v1
 Short Intraday system is a futures trading strategy that shorts top 15 futures as based on average of 9 optimized and selected Indicators:
 1.	Price Indicators: CRSI, ROC Price, RSI Price
 2.	Volume indicators: ROC Vol, RSI Vol, Vol PR
